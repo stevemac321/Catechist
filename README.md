@@ -15,5 +15,9 @@ FullCompendium.docx (The Compendium of the CCC formatted to a Logos Personal Boo
 logos-catholic.txt (links to my recommended Logos packages for Catechists)
 
 Baltimore_Catechism_1_2_3__4_.apkg (Shared Baltimore Catechism Anki flashcard deck from Ankiweb)
+
 baltimore_catechism.docx(Logos Personal Book source file for the Baltimore Catechism)
+
 regex.txt (regular expressions to be used in LibreOffice Write Find and Replace for Logos format)
+
+Mastery.pptx (powerpoint deck)
