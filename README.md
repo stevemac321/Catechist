@@ -12,6 +12,8 @@ CCC-Themes.docx (Questions posed to AI (Bing CoPilot) with provided answers)
 
 FullCompendium.docx (The Compendium of the CCC formatted to a Logos Personal Book source file)
 
+Ecumenical.docx (sample AI results for a short overview of the first few councils).
+
 logos-catholic.txt (links to my recommended Logos packages for Catechists)
 
 Baltimore_Catechism_1_2_3__4_.apkg (Shared Baltimore Catechism Anki flashcard deck from Ankiweb)
