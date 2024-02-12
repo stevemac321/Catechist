@@ -6,6 +6,8 @@ CCC-TOC.apkg (Anki flashcard deck for the Catechism of the Catholic Church Table
 
 CompendiumCCC.apkg (Anki Flashcard deck for the Compendium of the Catechism of the Catholic Church)
 
+Virtues-Gifts-Fruits-Commandments.apkg (Anki Flashcard deck for the virtues, fruits-gifts of the Spirit, etc. from the Missile)
+
 RE-Standards-Combined.pdf (a master chart of the Six Tasks of Catechesis and Essential Concepts)
 
 RE-k-8.docx (Logos Personal Book source file (RE-Standards)of the above file with CCC hyperlinks)
