@@ -2,6 +2,10 @@ Table of Contents
 
 RE-Standards.apkg (Anki flashcard deck for RE-Standards)
 
+CCC-TOC.apkg (Anki flashcard deck for the Catechism of the Catholic Church Table of Contents)
+
+CompendiumCCC.apkg (Anki Flashcard deck for the Compendium of the Catechism of the Catholic Church)
+
 RE-Standards-Combined.pdf (a master chart of the Six Tasks of Catechesis and Essential Concepts)
 
 RE-k-8.docx (Logos Personal Book source file (RE-Standards)of the above file with CCC hyperlinks)
