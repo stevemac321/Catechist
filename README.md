@@ -14,6 +14,8 @@ RE-k-8.docx (Logos Personal Book source file (RE-Standards)of the above file wit
 
 Catechist-Notes (The lesson bullet items in the Catechist Online course formatted to Logos Personal Book source file)
 
+Summa-TOC.docx (source file for the Summa Table of Contents for Logos Personal Book).
+
 CCC-Themes.docx (Questions posed to AI (Bing CoPilot) with provided answers)
 
 FullCompendium.docx (The Compendium of the CCC formatted to a Logos Personal Book source file)
