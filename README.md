@@ -8,6 +8,8 @@ CompendiumCCC.apkg (Anki Flashcard deck for the Compendium of the Catechism of t
 
 Virtues-Gifts-Fruits-Commandments.apkg (Anki Flashcard deck for the virtues, fruits-gifts of the Spirit, etc. from the Missile)
 
+Ecumenical Councils.apkg (Anki flashcards for the seven ecumenical councils and the first apostolic fathers)
+
 RE-Standards-Combined.pdf (a master chart of the Six Tasks of Catechesis and Essential Concepts)
 
 RE-k-8.docx (Logos Personal Book source file (RE-Standards)of the above file with CCC hyperlinks)
